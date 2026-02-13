@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0A66C2;
+  --color-secondary: #E86C44;
+  --color-accent: #2D5F7E;
+  --color-dark: #1A1D29;
+  --color-darker: #0F1117;
+  --color-light: #F5F7FA;
+  --color-success: #059669;
+  --color-warm: #D4A574;
+
+  --font-family-syne: 'Syne', sans-serif;
+  --font-family-inter: 'Inter', sans-serif;
+  --font-family-crimson: 'Crimson Pro', serif;
+}
