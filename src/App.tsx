@@ -1,4 +1,3 @@
-import { useState } from "react";
 
 // ── TYPES ────────────────────────────────────────────────────────────────────
 interface ServiceCard {
@@ -401,7 +400,7 @@ function Hero() {
   );
 }
 
-function SectionLabel({ children, light = false }: { children: string; light?: boolean }) {
+function SectionLabel({ children }: { children: string; }) {
   return (
     <div className="jl-section-label" style={{
       fontSize: "0.72rem", fontWeight: 600,
