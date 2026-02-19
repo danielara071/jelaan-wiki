@@ -10,6 +10,7 @@ Wiki interna para Jela'an Consulting Group - Una consultora innovativa especiali
 - **Tailwind CSS** - Framework de estilos
 
 ## 🎨 Identidad Visual
+.
 
 La aplicación utiliza la identidad de marca completa de Jela'an:
 
